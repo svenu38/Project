@@ -1,0 +1,1 @@
+i have created the file called chapter3 and commited to the staging area into the git 
